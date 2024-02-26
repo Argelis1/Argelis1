@@ -1,4 +1,4 @@
-<h1>Hi, I'm Argelis,  <a href="https://www.linkedin.com/in/argelis-robles/">SALES/IT Professional
+<h1>Hi, I'm Argelis,  <a href="https://www.linkedin.com/in/argelis-robles/">Cyber Security - IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
